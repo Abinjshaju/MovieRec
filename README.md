@@ -77,8 +77,6 @@ The combination of these methods ensures that the recommendation system is:
 - **Scalable**: K-Means clustering enhances performance and enables segmentation for targeted recommendations.
 
 # Data Citation:
-### F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on
-### Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. <https://doi.org/10.1145/2827872>
-### http://files.grouplens.org/datasets/movielens/ml-latest-small.zip
-
-### Spencer Pao on YouTube : https://www.youtube.com/watch?v=G4MBc40rQ2k
+-  F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. <https://doi.org/10.1145/2827872>
+- http://files.grouplens.org/datasets/movielens/ml-latest-small.zip
+- Spencer Pao on YouTube : https://www.youtube.com/watch?v=G4MBc40rQ2k
